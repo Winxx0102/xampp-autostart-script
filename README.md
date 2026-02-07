@@ -18,7 +18,7 @@ Para poder usarlo desde cualquier parte de la terminal, te recomiendo hacer lo s
 
 1. Clona el repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/Winxx0102/xampp-autostart-script.git
 2. Dale los siguientes permisos en la carpeta donde este ubicado el script
 
    ```bash
